@@ -5,6 +5,7 @@
 An intelligent web scraping app powered by Gemini (Google Generative AI) that scrapes website content and parses specific information using natural language prompts.
 
 ---
+![App Screenshot](assets/screenshot_2.png)
 
 ## 🚀 Features
 
@@ -16,7 +17,7 @@ An intelligent web scraping app powered by Gemini (Google Generative AI) that sc
 - 🔄 Proxy/IP rotation support (planned)
 
 ---
-
+![App Screenshot](assets/screenshot_3.png)
 ---
 
 ## 🧰 Technologies Used
@@ -28,6 +29,7 @@ An intelligent web scraping app powered by Gemini (Google Generative AI) that sc
 - BeautifulSoup4
 - Pandas
 
+![App Screenshot](assets/screenshot_4.png)
 ---
 
 ## 📦 Setup Instructions
