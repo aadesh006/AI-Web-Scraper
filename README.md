@@ -12,8 +12,7 @@ An intelligent web scraping app powered by Gemini (Google Generative AI) that sc
 - 🧹 Clean and extract body content
 - ✂️ Split large DOM content into manageable chunks
 - 🤖 Use Gemini AI to parse specific information from the page
-- 📥 Export parsed results to CSV
-- 🔄 Proxy/IP rotation support (planned)
+- 📥 Download data in the form of TXT or CSV
 
 ---
 
@@ -31,6 +30,12 @@ An intelligent web scraping app powered by Gemini (Google Generative AI) that sc
 ---
 
 ## 📦 Setup Instructions
+
+-Create an .env folder and save your Gemini API Key as 'GEMINI_API_KEY'
+-on your terminal write the following cmd
+```bash
+streamlit run main.py
+```
 
 ```bash
 git clone https://github.com/your-username/ai-web-scraper.git
