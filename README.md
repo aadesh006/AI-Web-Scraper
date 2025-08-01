@@ -1,6 +1,6 @@
-# 🕸AI Web-Scraper
+# AI Web-Scraper
 
-![App Screenshot](assets/Screenshot 2025-08-01 203457.png)
+![App Screenshot](assets/screenshot_1.png)
 
 An intelligent web scraping app powered by Gemini (Google Generative AI) that scrapes website content and parses specific information using natural language prompts.
 
