@@ -33,8 +33,8 @@ An intelligent web scraping app powered by Gemini (Google Generative AI) that sc
 
 ## 📦 Setup Instructions
 
--Create an .env folder and save your Gemini API Key as 'GEMINI_API_KEY'
--on your terminal write the following cmd
+- Create an .env folder and save your Gemini API Key as 'GEMINI_API_KEY'
+- On your terminal, write the following cmd
 ```bash
 streamlit run main.py
 ```
