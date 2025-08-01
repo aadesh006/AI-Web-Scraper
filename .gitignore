@@ -1,9 +1,23 @@
-# Python cache
+# Ignore Python bytecode and cache
 __pycache__/
-*.pyc
+*.py[cod]
 
-# Virtual environments
-venv/
-env/
-.web-scraper/
+# Ignore environment variables
+.env
+
+# Ignore virtual environments (change if yours is named differently)
 web-scraper/
+
+# Ignore WebDriver binaries
+chromedriver.exe
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE/editor settings (optional)
+.vscode/
+.idea/
+
+# Streamlit cache and config (if used)
+.streamlit/
