@@ -19,14 +19,16 @@ An intelligent web scraping app powered by Gemini (Google Generative AI) that sc
 ![App Screenshot](assets/screenshot_3.png)
 ---
 
-## 🧰 Technologies Used
+## Tech Stack
 
-- Python
-- Streamlit
-- LangChain
-- Gemini (via `langchain_google_genai`)
-- BeautifulSoup4
-- Pandas
+| Tool/Library | Purpose |
+|--------------|---------|
+| Python       | Core programming language |
+| Streamlit       | User Interface |
+| Gemini       | AI API |
+| BeautifulSoup4 & Selenium     | Web-Scraping |
+| Pandas       | Data Manipulation |
+| LangChain       | For AI Integration |
 
 ![App Screenshot](assets/screenshot_4.png)
 ---
