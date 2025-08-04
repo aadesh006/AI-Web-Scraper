@@ -24,7 +24,6 @@ An intelligent web scraping app powered by Gemini (Google Generative AI) that sc
 | Tool/Library | Purpose |
 |--------------|---------|
 | Python       | Core programming language |
-
 | Streamlit       | User Interface |
 | Gemini       | Backend Intelligence |
 | BeautifulSoup4 & Selenium     | Web-Scraping |
@@ -48,3 +47,4 @@ cd ai-web-scraper
 python -m venv venv
 venv\Scripts\activate   # On Windows
 pip install -r requirement.txt
+
