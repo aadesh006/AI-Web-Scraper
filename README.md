@@ -17,10 +17,8 @@ This project focuses on **automation, flexibility, and robustness** in real-worl
 
 ## Application Preview
 
-![App Screenshot](assets/screenshot_1.png)
 ![App Screenshot](assets/screenshot_2.png)
 ![App Screenshot](assets/screenshot_3.png)
-![App Screenshot](assets/screenshot_4.png)
 
 ---
 
@@ -80,7 +78,7 @@ This hybrid approach combines:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/ai-web-scraper.git
+git clone https://github.com/aadesh006/ai-web-scraper.git
 cd ai-web-scraper
 ```
 
@@ -96,3 +94,4 @@ cd ai-web-scraper
 
 git clone https://github.com/your-username/ai-web-scraper.git
 cd ai-web-scraper
+
