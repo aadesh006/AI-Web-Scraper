@@ -90,8 +90,3 @@ cd ai-web-scraper
 - AI responses may vary depending on prompt clarity
 - Designed for experimentation and research, not high-scale crawling
 - Accuracy depends on the quality of the page content
-
-
-git clone https://github.com/your-username/ai-web-scraper.git
-cd ai-web-scraper
-
